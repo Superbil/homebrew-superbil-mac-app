@@ -1,4 +1,4 @@
-cask 'Dropbox-AltStarter' do
+cask 'dropbox-altstarter' do
   version '1.0'
   sha256 'e40399667c95b6e1b958f7b056044ad3ebdad38ee3b26f35640f60cd65ef90e1'
 
