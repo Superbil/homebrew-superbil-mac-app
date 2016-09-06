@@ -5,7 +5,7 @@ cask 'dropbox-altstarter' do
   url "https://github.com/Superbil/Dropbox-AltStarter-app/releases/download/v#{version}/DropboxAltStarter.zip"
   name 'Dropbox-AltStarter'
   homepage 'https://github.com/Superbil/Dropbox-AltStarter-app'
-  license :MIT
+  license :mit
 
   app 'DropboxAltStarter.app'
 
