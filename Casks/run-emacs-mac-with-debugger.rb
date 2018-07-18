@@ -5,7 +5,6 @@ cask 'run-emacs-mac-with-debugger' do
   url "https://github.com/Superbil/Run-Emacs-app-With-Debugger/releases/download/#{version}/Run.Emacs-mac.With.Debugger.zip"
   name 'Run Emacs-mac With Debugger'
   homepage 'https://github.com/Superbil/Run-Emacs-app-With-Debugger'
-  license :mit
 
   app 'Run Emacs-mac With Debugger.app'
 end
